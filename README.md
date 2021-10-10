@@ -1,8 +1,8 @@
 # Applied-Data-Science-Group-7
 Nhóm 7:
-18120429 – Phạm Trung Kiên
-18120431 – A Ly Ha Kim
-18120434 – Thái Hoàng Lâm
+18120429 – Phạm Trung Kiên \
+18120431 – A Ly Ha Kim \
+18120434 – Thái Hoàng Lâm \
 18120462 – Nguyễn Thị Mận
 
 Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYtm-3_ynxzbSlgfn5YKSnog32DxA/edit?usp=sharing
@@ -10,3 +10,6 @@ Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYt
 Link Google Collab: https://colab.research.google.com/drive/1VrdnnyK67iefJySoqOYoOduXHozn0uXF#scrollTo=cdd449PWlG8D
 
 Link Google Drive: https://drive.google.com/drive/folders/1q9n-w75uUYesojq9L2-21Ay_heD82EPH?usp=sharing
+
+-Data: Train.csv, test.csv, sample_submission.csv are downloaded from Kaggle (https://www.kaggle.com/c/tweet-sentiment-extraction/data)\
+The data is used to carry on the project from Applied Data Science course of VNU HCMUS, for the purpose of scientific research.
