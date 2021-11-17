@@ -3,7 +3,7 @@ Group 7: \
 18120429 – Phạm Trung Kiên - trungkien2000\
 18120431 – A Ly Ha Kim - kim-ali\
 18120434 – Thái Hoàng Lâm - hoanglam372000\
-18120462 – Nguyễn Thị Mận - 
+18120462 – Nguyễn Thị Mận - ManCB26
 
 Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYtm-3_ynxzbSlgfn5YKSnog32DxA/edit?usp=sharing
 
