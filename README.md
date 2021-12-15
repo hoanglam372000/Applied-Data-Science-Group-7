@@ -5,7 +5,7 @@ Group 7: \
 18120434 – Thái Hoàng Lâm - hoanglam372000\
 18120462 – Nguyễn Thị Mận - ManCB26
 
-Link GG collab (code + report): https://colab.research.google.com/github/hoanglam372000/Applied-Data-Science-Group-7/blob/main/Notebooks/2_12_Report_TSE.ipynb
+Link GG collab (code + report): https://colab.research.google.com/github/hoanglam372000/Applied-Data-Science-Group-7/blob/main/Notebooks/Report_TSE_BERT_TK.ipynb
 
 
 Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYtm-3_ynxzbSlgfn5YKSnog32DxA/edit?usp=sharing
