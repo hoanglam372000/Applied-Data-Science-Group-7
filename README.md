@@ -20,7 +20,7 @@ Phương pháp giải quyết:
 + Sau cùng, nếu vẫn chưa đạt được kết quả khả quan với những kiến thức deep learning đã học, nhóm sẽ tiến hành giải tiếp bài toán theo phương pháp của hạng 3 (lúc này các thành viên đã đủ kiến thức)
 
 Data: Train.csv, test.csv, sample_submission.csv are downloaded from Kaggle (https://www.kaggle.com/c/tweet-sentiment-extraction/data) \
-The data is used to carry on the project from Applied Data Science course of VNU HCMUS, for the purpose of scientific research.\
+The data is used to carry on the project from Applied Data Science course of VNU HCMUS, for the purpose of scientific research.
 
  Một số paper về Deep learning nhóm đã tham khảo:
 - LSTM: https://arxiv.org/pdf/1503.04069.pdf
