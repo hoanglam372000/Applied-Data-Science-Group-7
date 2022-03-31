@@ -5,7 +5,7 @@ Group 7: \
 18120434 – Thái Hoàng Lâm - hoanglam372000\
 18120462 – Nguyễn Thị Mận - ManCB26
 
-Link GG collab (code + report): https://colab.research.google.com/drive/1MpqKtl-ZOP-IyxNhJKwlxmaSAs4kPFyT#scrollTo=iw8LntxSaG5H&uniqifier=5
+Link GG collab (code + report): https://colab.research.google.com/drive/1MpqKtl-ZOP-IyxNhJKwlxmaSAs4kPFyT#scrollTo=iw8LntxSaG5H&uniqifier=5 \
 Kết quả cuối cùng đạt được: \
 - Private score: 0.64833
 
