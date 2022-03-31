@@ -6,7 +6,7 @@ Group 7: \
 18120462 – Nguyễn Thị Mận - ManCB26
 
 Link GG collab (code + report): https://colab.research.google.com/drive/1MpqKtl-ZOP-IyxNhJKwlxmaSAs4kPFyT#scrollTo=iw8LntxSaG5H&uniqifier=5 \
-Kết quả cuối cùng đạt được: \
+Kết quả cuối cùng đạt được: 
 - Private score: 0.64833
 
 Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYtm-3_ynxzbSlgfn5YKSnog32DxA/edit?usp=sharing
