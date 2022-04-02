@@ -6,6 +6,7 @@ Group 7: \
 18120462 – Nguyễn Thị Mận - ManCB26
 
 Link GG collab (code + report): https://colab.research.google.com/drive/1MpqKtl-ZOP-IyxNhJKwlxmaSAs4kPFyT#scrollTo=iw8LntxSaG5H&uniqifier=5 \
+
 Final score (scored by Kaggle) in Private Leaderboard: 0.64833
 
 Link GG Sheet meeting: https://docs.google.com/spreadsheets/d/1saYIZIALNaFdzqsYtm-3_ynxzbSlgfn5YKSnog32DxA/edit?usp=sharing
@@ -17,7 +18,7 @@ Solution:
   - Advance: Deep learning approach
     + Word embeddings with CBOW and LSTM with Attention mechanism model.
     + BERT, RoBerta for word representation
-  - Hydrid: combining statistical model and Roberta model \
+  - Hydrid: combining statistical model and Roberta model
 
 Data sets: Train.csv, test.csv, sample_submission.csv are downloaded from Kaggle (https://www.kaggle.com/c/tweet-sentiment-extraction/data) \
 The data is used to carry on the project from Applied Data Science course of VNU HCMUS, for the purpose of scientific research. \
